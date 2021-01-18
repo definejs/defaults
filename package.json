@@ -1,6 +1,6 @@
 {
   "name": "@definejs/defaults",
-  "version": "0.1.5",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -13,6 +13,6 @@
     "url": "https://github.com/definejs/defaults.git"
   },
   "dependencies": {
-    "@definejs/object": "^1.0.6"
+    "@definejs/object": "^1.1.0"
   }
 }
